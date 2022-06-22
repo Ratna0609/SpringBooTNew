@@ -601,7 +601,7 @@ HTTP defines these standard status codes that can be used to convey the results 
 ![SPring Boot](https://user-images.githubusercontent.com/11579239/173742829-5953f093-876e-4c3f-ab6c-f34aa3fe7e3a.jpg)
 
 	
-<a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>
+<!--<a href="http://starwalt.in/Blogs/index.html">Follow us on Blog</a>-->
 
 <div align="right">
     <b><a href="#SpringBoot">↥ Back To Top</a></b>
